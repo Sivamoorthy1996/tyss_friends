@@ -1,0 +1,25 @@
+package org.github.practice;
+
+import org.testng.annotations.Test;
+
+public class githubpractice2Test {
+	
+	@Test
+	public void parctice1() {
+		System.out.println("Test1-->class2");
+	
+	}
+	@Test
+	public void parctice2() {
+		System.out.println("Test2-->class2");
+	
+	}
+	@Test
+	public void parctice3() {
+		System.out.println("Test3-->class2");
+	
+	}
+	
+	
+
+}
